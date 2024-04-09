@@ -1,12 +1,12 @@
 # Wall_Curing_Bot
 
-This is the project titled **‘Wall Curing Bot’** by **P. Madhavi, M. Ankitha, P. Aarushraj, K. Bharath Kumar and B. Rajmohan**. 
+This is the project titled **‘Wall Curing Bot’** by **P. Madhavi, M. Ankitha, P. Aarushraj, @Kbc981 and B. Rajmohan**. 
 This is a record of the project work carried out by us, during the year **2022-2023** as part of **POST INDUCTION** under the guidance and supervision of **Mr D.P. Naga Ajay Kumar & Ms P. Tapaswini** (Technical Heads) and **Mr T. Bharat Kumar** (The President of THE ROBOTICS CLUB)
 
 ## Abstract
 To automate the process of curing concrete. Curing plays an important role in the strength development and durability of concrete. The project provides an efficient way to cure concrete during the construction of buildings which reduces the labour and time
 
-## Introduction to the project
+## Introduction
 Curing is the process of controlling moisture loss from concrete that has already been placed. Curing ensures the hydration of the cement, which in turn enhances its strength and durability. Curing takes place immediately after placing the concrete and deals with the maintenance of the desired temperature and moisture for extended periods. Proper curing helps to prevent grazing, dusting, surface disintegration and scaling. Adequate curing reduces shrinkage, gives better resistance to wear and improves long-term appearance. To automate this process of curing in the purpose of this project.
 
 ## Problem Statement
